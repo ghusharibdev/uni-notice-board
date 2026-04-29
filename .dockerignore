@@ -1,0 +1,10 @@
+node_modules/
+.git/
+.github/
+src/
+styles/
+*.md
+*.json
+!package.json
+.htmlhintrc
+.stylelintrc.json
